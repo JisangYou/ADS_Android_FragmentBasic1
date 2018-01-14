@@ -1,7 +1,8 @@
 # ADS04 Android
 
 ## 수업 내용
-- Fragment학습
+- Fragment 학습
+- 기본적인 개념 및 문법
 
 ## Code Review
 
